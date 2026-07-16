@@ -28,3 +28,4 @@ An electronic-gospel protest hymn with glitch textures, processed ney/synth flut
 ### Song 07 - Chasing Dreams in the City Lights
 A contemporary pop-leaning track about longing, hope, and pursuing vocation in the city. 
 Themes: personal dream-chasing, urban solitude, optimistic closure — the one track with more secular imagery and broad emotional appeal.
+
